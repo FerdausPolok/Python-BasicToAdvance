@@ -7,12 +7,12 @@ while(num>=i):
     print(i)
     i+=1
 
-#for
+"""for
 
-#range() has three perameter - start, stop, step size
-#range(3) -> start from 0 end at 3-1 step 1 -> 0,1,2
-#range(1,3) -> start from 1 end at 3-1 step 1 ->1,2
-#range(2,11,2) -> start from 2 end at 11-1 step 2 ->2,4,6,8,10
+range() has three perameter - start, stop, step size
+range(3) -> start from 0 end at 3-1 step 1 -> 0,1,2
+range(1,3) -> start from 1 end at 3-1 step 1 ->1,2
+range(2,11,2) -> start from 2 end at 11-1 step 2 ->2,4,6,8,10"""
 
 for i in range(num+1):
     print(i)
