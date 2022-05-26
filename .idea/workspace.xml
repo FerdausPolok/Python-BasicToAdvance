@@ -33,7 +33,7 @@
     "settings.editor.selected.configurable": "Errors"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.listMethods">
+  <component name="RunManager" selected="Python.tuples_references">
     <configuration name="ExPxFunctionProblem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-BasicToAdvance" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="progsWithFunction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="tuples_references" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-BasicToAdvance" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,7 +130,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/progsWithFunction.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuples_references.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tuples_references" />
         <item itemvalue="Python.listMethods" />
         <item itemvalue="Python.list" />
         <item itemvalue="Python.firstCode" />
         <item itemvalue="Python.ExPxFunctionProblem" />
-        <item itemvalue="Python.progsWithFunction" />
       </list>
     </recent_temporary>
   </component>
