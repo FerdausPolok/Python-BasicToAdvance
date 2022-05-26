@@ -24,3 +24,19 @@ print(place_viisted)
 
 place_viisted.sort(key= str.lower, reverse=True) #higher alpha sort
 print(place_viisted)
+
+#printing values of list using for in loop
+for i in place_viisted:
+    print(i)
+
+#value is in the list or not
+
+if('UK' not in place_viisted):
+    print('UK is not there')
+else:
+    print("UK is in the list")
+
+#Strig is a list of char
+
+str = "THIS IS BASICALLY A LIST"
+print(str[2])
