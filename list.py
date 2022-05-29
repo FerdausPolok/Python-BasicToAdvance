@@ -45,3 +45,12 @@ print(list9)
 list10=[1,2,3]
 del list10[0]
 print(list10)
+
+aList = [5, 10, 15, 25]
+print(aList[::-2])
+
+print("Sample")
+sample = [1, 2, 3, 4, 5, 6]
+print(sample[:-1])
+print(sample[-1])
+
