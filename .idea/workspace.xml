@@ -33,7 +33,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.some_dictionary_programms">
+  <component name="RunManager" selected="Python.dictionaryMethods">
     <configuration name="dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-BasicToAdvance" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,8 +141,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.some_dictionary_programms" />
         <item itemvalue="Python.dictionaryMethods" />
+        <item itemvalue="Python.some_dictionary_programms" />
         <item itemvalue="Python.dictionaries" />
         <item itemvalue="Python.file_txt_palindrom" />
         <item itemvalue="Python.files_csv" />

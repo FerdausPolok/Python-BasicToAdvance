@@ -48,6 +48,3 @@ print(str(identity.setdefault('name', 'Ferdaus')))
 print(str(identity.setdefault('height', '5ft 10in')))
 
 print(identity)
-
-
-
