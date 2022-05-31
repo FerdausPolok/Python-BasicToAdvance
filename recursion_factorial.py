@@ -14,3 +14,10 @@ print(factorial(5))
 
 #recurssion
 
+def factorial2(n):
+    if n == 1:
+        return 1 #base case
+    return n * factorial2(n-1)
+
+print(factorial2(5))
+
