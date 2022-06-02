@@ -34,7 +34,7 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.decorators">
+  <component name="RunManager" selected="Python.test">
     <configuration name="StringFormating" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-BasicToAdvance" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.decorators" />
         <item itemvalue="Python.firstCode" />
         <item itemvalue="Python.classBasic" />
         <item itemvalue="Python.StringFormating" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
