@@ -68,6 +68,29 @@ print("\n\n")
 
 hBot.move_forward()
 
+print("\n\n")
+
+robo = Robot("Zaman", 1.2)
+print(help(Robot))
+print(help(HouseBot))
+
+print("\n\n")
+
+print(issubclass(HouseBot, Robot))
+print(issubclass(Robot, HouseBot))
+print(issubclass(Robot, object))
+print(issubclass(HouseBot, object))
+
+print("\n\n")
+
+print(isinstance(hBot, Robot))
+print(isinstance(hBot, HouseBot))
+print(isinstance(hBot, object))
+print(isinstance(robo, object))
+
+
+
+
 
 
 
