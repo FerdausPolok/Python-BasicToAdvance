@@ -46,6 +46,11 @@ class HouseBot(Robot): #Houbot Inherits Robot
         super().move_forward()
 
 
+class MaidBot(HouseBot):
+    def __init__(self, name, version, area_covered, cooking):
+        super().__init__(name, version, area_covered)
+        self.cooking = cooking
+
 
 
 hBot = HouseBot("Polok", 1.1, 50)
@@ -88,6 +93,11 @@ print(isinstance(hBot, HouseBot))
 print(isinstance(hBot, object))
 print(isinstance(robo, object))
 
+print("\n\n")
+
+mb = MaidBot("MaidBot 1", 1.1, 100, 'Rice')
+print(mb.cooking)
+mb.move_forward()
 
 
 
