@@ -26,7 +26,7 @@ class SuperHuman(Dancer, Singer, Artist):
     def play_sport(self):
         print(f"Playing {self.sport}")
 
-    #overriding the dance method od dancer class
+    #overriding the dance method of dancer class
     def dance(self, competition="Wprld championship"):
         print(f"Dancing with my own {self.style} style in the {competition} competition")
 
