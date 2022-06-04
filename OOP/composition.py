@@ -1,4 +1,4 @@
-#composition means use another class object inside a class 
+#composition means use another class object inside a class
 class StoryBook:
     # Class Variable
     no_of_books = 0
