@@ -25,7 +25,7 @@ class Point2D:
         if isinstance(self, other.__class__):
             return self.x < other.x or (self.y == other.x and self.y< other.y)
     def __hash__(self):
-        pass
+        return hash(self.x + self.y)
 
 
 
@@ -81,6 +81,24 @@ print(p1 < p6 )
 
 print("\nhash... \n")
 
+d= {}
+
+d['polok'] = 100 #using hash to store
+d['zaman'] = 200
+
+print(d)
+print(d['polok'])
+
+point_Set = set()
+point_dict = dict()
+
+point_Set.add(p1) #hash need to be over write
+
+print(point_Set)
+
+point_dict[p1] = str(p1)
+
+print(point_dict)
 
 
 
